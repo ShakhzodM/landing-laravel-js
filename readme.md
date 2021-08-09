@@ -1,3 +1,3 @@
-![image](https://github.com/ShakhzodM/landing-laravel-php-js/master/land.gif)
+![image](https://github.com/ShakhzodM/landing-laravel-php-js/blob/master/land.gif)
 Описание:
-https://github.com/ShakhzodM/landing-laravel-php-js/master/land.gif
+https://github.com/ShakhzodM/landing-laravel-php-js/blob/master/land.gif
